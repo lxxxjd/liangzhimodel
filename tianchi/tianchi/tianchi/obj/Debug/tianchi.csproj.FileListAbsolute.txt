@@ -1,0 +1,2 @@
+G:\liangzhishixi\tianchi\tianchi\tianchi\bin\Debug\tianchi.exe.config
+G:\liangzhishixi\tianchi\tianchi\tianchi\obj\Debug\tianchi.csprojResolveAssemblyReference.cache
